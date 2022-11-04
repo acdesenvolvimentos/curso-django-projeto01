@@ -1,1 +1,131 @@
+
+# Django #
+*..log
+*.panela
+*.pyc
+__pycache__
+db.sqlite3
+mídia
+
+# Arquivos de backup #
+*..bak
+
+# Se você estiver usando PyCharm #
+.idea/**/workspace.xml
+.idea/**/tasks.xml
+.idea/dicionários
+.idea/**/dataFontes/
+.idea/**/dataFontes.ids
+.idea/**/dataFontes.xml
+.idea/**/dataSources.local.xml
+.idea/**/sqlDataSources.xml
+.idea/**/dynamic.xml
+.idea/**/uiDesigner.xml
+.idea/**/gradle.xml
+.idea/**/bibliotecas
+*.iws /out/
+
+# Pitão #
+*.py]
+*$py.class
+
+# Distribuição / embalagem
+. . Construção python/
+desenvolver ovos/
+Dist/
+Downloads/
+ovo/
+.ovo/
+Lib/
+lib64/
+Partes/
+sdist/
+Var/
+Rodas/
+*.egg-info/
+.instalado.cfg
+*.ovo
+*.manifesto
+*.Especificação
+
+# Logs do instalador
+pip-log.txt
+pip-delete-este-diretório.txt
+
+# Relatórios de teste/cobertura da unidade
+htmlcov/
+.Tox/
+.cobertura
+.cobertura.*
+.cache
+.pytest_cache/
+testes de nariz.xml
+cobertura.xml
+*.cobrir
+.hipótese/
+
+# Caderno Jupyter
+.ipynb_checkpoints
+
+# pyenv
+.python-versão
+
+#aipo
+aipobeat-cronograma.*
+
+# Arquivos analisados SageMath
+*sage.py
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# mkdocs documentation
+/site
+
+# mypy
+.mypy_cache/
+
+# Sublime Text #
+*.tmlanguage.cache
+*.tmPreferences.cache
+*.stTheme.cache
+*.sublime-workspace
+*.sublime-project
+
+# sftp configuration file
+sftp-config.json
+
+# Package control specific files Package
+Control.last-run
+Control.ca-list
+pacote de Control.ca
+Control.system-ca-bundle
+GitHub.sublime-configurações
+
+# Código de estúdio visual #
+.vscode/*
+! .vscode/configurações.json
+! .vscode/tasks.json
+! .vscode/launch.json
+! .vscode/extensions.json
+.história
+
+# Adições pessoais
+__pycache__/
+*.pyc
+__localcode
 venv
+Env
+.DS_Store
+local_settings.py
+_local_settings.py
+gunicorn-error-log
+db.sqlite3
+db copy.sqlite3
+estático/
